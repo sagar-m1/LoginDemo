@@ -1,0 +1,24 @@
+# Build outputs
+/bin/
+/build/
+/target/
+
+# Tomcat/Eclipse WTP temp and deployment metadata
+.wtpmodules
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.eclipse.wst.common.component
+.settings/org.eclipse.wst.jsdt.ui.prefs
+
+# IDE files (keep Eclipse core to ease import)
+.idea/
+*.iml
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Logs and temp
+*.log
+temp/
+
+
